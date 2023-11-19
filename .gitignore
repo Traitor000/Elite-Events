@@ -1,7 +1,7 @@
 # .gitignore
 
 # Ignore .next directory
-.next
+/.next
 
 # Ignore node_modules
 /node_modules
