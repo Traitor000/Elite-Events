@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Event ticketing application with Next.js and Firebase
 ### The application does the following: 
 - authenticates users via Email and Password with Firebase,
@@ -28,3 +29,6 @@
 - [React Toastify](https://fkhadra.github.io/react-toastify/introduction)
 - [React Copy To Clipboard](https://github.com/nkbt/react-copy-to-clipboard)
 # Elite-Events
+=======
+An event management system that allows users to create and share events. After creating an event, the creator (user) can share the event ticketing URL so others can register for each event. They also get notified and receive the event tickets via email.
+>>>>>>> 09776e72b936240da3b9d16097cf3db9dddac2ce
