@@ -1,10 +1,11 @@
 # .gitignore
 
+# Ignore .next directory
+.next
+
 # Ignore node_modules
 /node_modules
 
 # Ignore .env files
 .env
 
-# Ignore .next directory
-.next
